@@ -264,7 +264,7 @@ const Projects = () => {
       title: "Wanderlust - Hotel Booking Platform",
       description:
         "Full-stack hotel review and booking web application with admin panel for property management and user authentication system.",
-      image: "../../public/wanderlust_project.png",
+      image: "/wanderlust_project.png",
       technologies: [
         "HTML5",
         "CSS3",
